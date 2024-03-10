@@ -1,4 +1,4 @@
-# LLM Model Exploration and Evaluation
+# LLM Model Exploration and RAG structure
 
 ## Overview
 This repository presents a series of notebooks detailing the exploration and evaluation of various LLM models, focusing on metadata extraction, multilingual processing, comparative analysis, and performance evaluation.
