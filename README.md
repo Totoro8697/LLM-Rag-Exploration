@@ -24,3 +24,5 @@ To use these notebooks, you will need:
 - `PyPDF2` for PDF processing and metadata extraction
 - `transformers` for accessing pre-trained NLP models
 - `tqdm` for progress bar visualization in loops
+
+* You can download PDF files from that link https://drive.google.com/file/d/1LYYGNqFI22gBqKiZUAZZf5UL6_4lQ8vt/view?usp=sharing
